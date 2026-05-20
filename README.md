@@ -27,15 +27,6 @@ Includes data management, statistical analysis, visualization and predictive mod
 - Jupyter Notebook
 
 ---
-## 📊 Visualizations
-
-### Temperature Trend
-![Temperature](images/plot1.png)
-
-### Correlation Analysis
-![Correlation](images/plot2.png)
-
----
 
 ## 🚀 How to Run
 Open the notebook (.ipynb) in Jupyter and run all cells.
