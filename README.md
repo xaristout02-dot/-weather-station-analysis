@@ -1,13 +1,13 @@
-# 🌦️ Weather Station Data Analysis
+#  Weather Station Data Analysis
 
-## 📌 Description
+##  Description
 A complete weather data analysis project implemented in Python using Jupyter Notebook.
 
 Includes data management, statistical analysis, visualization and predictive modeling.
 
 ---
 
-## ⚙️ Features
+##  Features
 - Add / delete / search weather data
 - Data validation with error handling
 - JSON & CSV storage
@@ -19,7 +19,7 @@ Includes data management, statistical analysis, visualization and predictive mod
 
 ---
 
-## 🧪 Technologies
+##  Technologies
 - Python
 - pandas
 - numpy
@@ -28,11 +28,11 @@ Includes data management, statistical analysis, visualization and predictive mod
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 Open the notebook (.ipynb) in Jupyter and run all cells.
 
 ---
 
-## 👨‍🎓 Author
+##  Author
 Charilaos Toutountzakis  
 MSc Applied Mathematics & Machine Learning
